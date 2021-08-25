@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache

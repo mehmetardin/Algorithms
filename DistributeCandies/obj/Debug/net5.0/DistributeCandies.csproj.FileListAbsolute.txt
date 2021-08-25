@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/bin/Debug/net5.0/DistributeCandies.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/bin/Debug/net5.0/DistributeCandies.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/bin/Debug/net5.0/DistributeCandies.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/bin/Debug/net5.0/DistributeCandies.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/bin/Debug/net5.0/ref/DistributeCandies.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/bin/Debug/net5.0/DistributeCandies.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/ref/DistributeCandies.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DistributeCandies/obj/Debug/net5.0/DistributeCandies.genruntimeconfig.cache

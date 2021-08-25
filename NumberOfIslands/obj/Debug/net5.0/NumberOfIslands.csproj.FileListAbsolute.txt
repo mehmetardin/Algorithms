@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/bin/Debug/net5.0/NumberOfIslands.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/bin/Debug/net5.0/NumberOfIslands.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/bin/Debug/net5.0/NumberOfIslands.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/bin/Debug/net5.0/NumberOfIslands.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/bin/Debug/net5.0/ref/NumberOfIslands.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/bin/Debug/net5.0/NumberOfIslands.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/ref/NumberOfIslands.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/NumberOfIslands/obj/Debug/net5.0/NumberOfIslands.genruntimeconfig.cache

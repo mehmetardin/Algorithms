@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/bin/Debug/net5.0/ValidParentheses.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/bin/Debug/net5.0/ValidParentheses.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/bin/Debug/net5.0/ValidParentheses.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/bin/Debug/net5.0/ValidParentheses.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/bin/Debug/net5.0/ref/ValidParentheses.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/bin/Debug/net5.0/ValidParentheses.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ref/ValidParentheses.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ValidParentheses/obj/Debug/net5.0/ValidParentheses.genruntimeconfig.cache

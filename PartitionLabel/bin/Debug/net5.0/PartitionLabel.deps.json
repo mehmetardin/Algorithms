@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PartitionLabel/1.0.0": {
+        "runtime": {
+          "PartitionLabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PartitionLabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

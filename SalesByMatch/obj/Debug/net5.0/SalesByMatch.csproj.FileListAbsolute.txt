@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/bin/Debug/net5.0/SalesByMatch.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/bin/Debug/net5.0/SalesByMatch.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/bin/Debug/net5.0/SalesByMatch.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/bin/Debug/net5.0/SalesByMatch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/bin/Debug/net5.0/ref/SalesByMatch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/bin/Debug/net5.0/SalesByMatch.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/ref/SalesByMatch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/SalesByMatch/obj/Debug/net5.0/SalesByMatch.genruntimeconfig.cache

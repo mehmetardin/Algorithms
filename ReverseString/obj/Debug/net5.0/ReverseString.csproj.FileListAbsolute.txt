@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/bin/Debug/net5.0/ReverseString.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/bin/Debug/net5.0/ReverseString.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/bin/Debug/net5.0/ReverseString.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/bin/Debug/net5.0/ReverseString.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/bin/Debug/net5.0/ref/ReverseString.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/bin/Debug/net5.0/ReverseString.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ref/ReverseString.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseString/obj/Debug/net5.0/ReverseString.genruntimeconfig.cache

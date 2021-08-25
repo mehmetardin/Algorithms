@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/bin/Debug/net5.0/TwoArrayContainAnyCommonItems.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/bin/Debug/net5.0/TwoArrayContainAnyCommonItems.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/bin/Debug/net5.0/TwoArrayContainAnyCommonItems.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/bin/Debug/net5.0/TwoArrayContainAnyCommonItems.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/bin/Debug/net5.0/ref/TwoArrayContainAnyCommonItems.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/bin/Debug/net5.0/TwoArrayContainAnyCommonItems.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/ref/TwoArrayContainAnyCommonItems.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/TwoArrayContainAnyCommonItems/obj/Debug/net5.0/TwoArrayContainAnyCommonItems.genruntimeconfig.cache

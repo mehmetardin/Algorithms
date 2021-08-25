@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/bin/Debug/net5.0/BFS.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/bin/Debug/net5.0/BFS.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/bin/Debug/net5.0/BFS.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/bin/Debug/net5.0/BFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/bin/Debug/net5.0/ref/BFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/bin/Debug/net5.0/BFS.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/ref/BFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BFS/obj/Debug/net5.0/BFS.genruntimeconfig.cache

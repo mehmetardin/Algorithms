@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/bin/Debug/net5.0/ref/BinarySearch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/bin/Debug/net5.0/BinarySearch.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/ref/BinarySearch.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/BinarySearch/obj/Debug/net5.0/BinarySearch.genruntimeconfig.cache

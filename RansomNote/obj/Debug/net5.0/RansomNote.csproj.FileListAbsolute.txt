@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/bin/Debug/net5.0/RansomNote.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/bin/Debug/net5.0/RansomNote.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/bin/Debug/net5.0/RansomNote.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/bin/Debug/net5.0/RansomNote.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/bin/Debug/net5.0/ref/RansomNote.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/bin/Debug/net5.0/RansomNote.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/ref/RansomNote.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RansomNote/obj/Debug/net5.0/RansomNote.genruntimeconfig.cache

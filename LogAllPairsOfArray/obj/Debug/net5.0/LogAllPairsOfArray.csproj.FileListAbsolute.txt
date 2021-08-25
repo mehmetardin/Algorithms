@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/bin/Debug/net5.0/LogAllPairsOfArray.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/bin/Debug/net5.0/LogAllPairsOfArray.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/bin/Debug/net5.0/LogAllPairsOfArray.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/bin/Debug/net5.0/LogAllPairsOfArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/bin/Debug/net5.0/ref/LogAllPairsOfArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/bin/Debug/net5.0/LogAllPairsOfArray.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/ref/LogAllPairsOfArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LogAllPairsOfArray/obj/Debug/net5.0/LogAllPairsOfArray.genruntimeconfig.cache

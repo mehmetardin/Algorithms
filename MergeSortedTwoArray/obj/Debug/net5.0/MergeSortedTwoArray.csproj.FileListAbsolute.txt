@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/bin/Debug/net5.0/MergeSortedTwoArray.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/bin/Debug/net5.0/MergeSortedTwoArray.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/bin/Debug/net5.0/MergeSortedTwoArray.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/bin/Debug/net5.0/MergeSortedTwoArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/bin/Debug/net5.0/ref/MergeSortedTwoArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/bin/Debug/net5.0/MergeSortedTwoArray.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/ref/MergeSortedTwoArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MergeSortedTwoArray/obj/Debug/net5.0/MergeSortedTwoArray.genruntimeconfig.cache

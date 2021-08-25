@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/bin/Debug/net5.0/ReverseSingleLinkedList.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/bin/Debug/net5.0/ReverseSingleLinkedList.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/bin/Debug/net5.0/ReverseSingleLinkedList.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/bin/Debug/net5.0/ReverseSingleLinkedList.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/bin/Debug/net5.0/ref/ReverseSingleLinkedList.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/bin/Debug/net5.0/ReverseSingleLinkedList.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ref/ReverseSingleLinkedList.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ReverseSingleLinkedList/obj/Debug/net5.0/ReverseSingleLinkedList.genruntimeconfig.cache

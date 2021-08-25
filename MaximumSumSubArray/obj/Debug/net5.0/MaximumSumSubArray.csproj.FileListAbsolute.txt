@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/bin/Debug/net5.0/MaximumSumSubArray.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/bin/Debug/net5.0/MaximumSumSubArray.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/bin/Debug/net5.0/MaximumSumSubArray.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/bin/Debug/net5.0/MaximumSumSubArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/bin/Debug/net5.0/ref/MaximumSumSubArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/bin/Debug/net5.0/MaximumSumSubArray.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/ref/MaximumSumSubArray.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MaximumSumSubArray/obj/Debug/net5.0/MaximumSumSubArray.genruntimeconfig.cache

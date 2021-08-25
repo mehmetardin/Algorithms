@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/bin/Debug/net5.0/CourseSchedule.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/bin/Debug/net5.0/CourseSchedule.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/bin/Debug/net5.0/CourseSchedule.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/bin/Debug/net5.0/CourseSchedule.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/bin/Debug/net5.0/ref/CourseSchedule.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/bin/Debug/net5.0/CourseSchedule.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/ref/CourseSchedule.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/CourseSchedule/obj/Debug/net5.0/CourseSchedule.genruntimeconfig.cache

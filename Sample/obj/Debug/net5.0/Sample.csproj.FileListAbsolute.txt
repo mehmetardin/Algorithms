@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/bin/Debug/net5.0/Sample.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/bin/Debug/net5.0/Sample.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/bin/Debug/net5.0/Sample.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/bin/Debug/net5.0/Sample.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/bin/Debug/net5.0/ref/Sample.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/bin/Debug/net5.0/Sample.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/ref/Sample.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/Sample/obj/Debug/net5.0/Sample.genruntimeconfig.cache

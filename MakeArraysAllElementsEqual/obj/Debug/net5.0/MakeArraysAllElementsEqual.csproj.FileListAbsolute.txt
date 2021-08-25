@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/bin/Debug/net5.0/MakeArraysAllElementsEqual.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/bin/Debug/net5.0/MakeArraysAllElementsEqual.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/bin/Debug/net5.0/MakeArraysAllElementsEqual.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/bin/Debug/net5.0/MakeArraysAllElementsEqual.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/bin/Debug/net5.0/ref/MakeArraysAllElementsEqual.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/bin/Debug/net5.0/MakeArraysAllElementsEqual.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/ref/MakeArraysAllElementsEqual.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/MakeArraysAllElementsEqual/obj/Debug/net5.0/MakeArraysAllElementsEqual.genruntimeconfig.cache

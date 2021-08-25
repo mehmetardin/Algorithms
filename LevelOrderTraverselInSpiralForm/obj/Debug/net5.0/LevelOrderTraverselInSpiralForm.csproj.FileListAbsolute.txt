@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/bin/Debug/net5.0/LevelOrderTraverselInSpiralForm.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/bin/Debug/net5.0/LevelOrderTraverselInSpiralForm.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/bin/Debug/net5.0/LevelOrderTraverselInSpiralForm.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/bin/Debug/net5.0/LevelOrderTraverselInSpiralForm.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/bin/Debug/net5.0/ref/LevelOrderTraverselInSpiralForm.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/bin/Debug/net5.0/LevelOrderTraverselInSpiralForm.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/ref/LevelOrderTraverselInSpiralForm.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/LevelOrderTraverselInSpiralForm/obj/Debug/net5.0/LevelOrderTraverselInSpiralForm.genruntimeconfig.cache

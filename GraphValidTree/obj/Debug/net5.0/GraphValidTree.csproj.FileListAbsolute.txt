@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/bin/Debug/net5.0/GraphValidTree.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/bin/Debug/net5.0/GraphValidTree.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/bin/Debug/net5.0/GraphValidTree.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/bin/Debug/net5.0/GraphValidTree.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/bin/Debug/net5.0/ref/GraphValidTree.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/bin/Debug/net5.0/GraphValidTree.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/ref/GraphValidTree.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/GraphValidTree/obj/Debug/net5.0/GraphValidTree.genruntimeconfig.cache

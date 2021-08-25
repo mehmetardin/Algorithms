@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/bin/Debug/net5.0/RobotBoundedInCircle.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/bin/Debug/net5.0/RobotBoundedInCircle.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/bin/Debug/net5.0/RobotBoundedInCircle.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/bin/Debug/net5.0/RobotBoundedInCircle.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/bin/Debug/net5.0/ref/RobotBoundedInCircle.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/bin/Debug/net5.0/RobotBoundedInCircle.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/ref/RobotBoundedInCircle.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/RobotBoundedInCircle/obj/Debug/net5.0/RobotBoundedInCircle.genruntimeconfig.cache

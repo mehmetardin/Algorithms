@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/bin/Debug/net5.0/DFS.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/bin/Debug/net5.0/DFS.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/bin/Debug/net5.0/DFS.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/bin/Debug/net5.0/DFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/bin/Debug/net5.0/ref/DFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/bin/Debug/net5.0/DFS.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/ref/DFS.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/DFS/obj/Debug/net5.0/DFS.genruntimeconfig.cache

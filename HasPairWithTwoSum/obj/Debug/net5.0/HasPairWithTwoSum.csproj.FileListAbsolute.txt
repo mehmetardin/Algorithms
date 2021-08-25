@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/bin/Debug/net5.0/HasPairWithTwoSum.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/bin/Debug/net5.0/HasPairWithTwoSum.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/bin/Debug/net5.0/HasPairWithTwoSum.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/bin/Debug/net5.0/HasPairWithTwoSum.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/bin/Debug/net5.0/ref/HasPairWithTwoSum.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/bin/Debug/net5.0/HasPairWithTwoSum.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/ref/HasPairWithTwoSum.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/HasPairWithTwoSum/obj/Debug/net5.0/HasPairWithTwoSum.genruntimeconfig.cache

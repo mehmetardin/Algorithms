@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/bin/Debug/net5.0/ItemsInContainer.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/bin/Debug/net5.0/ItemsInContainer.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/bin/Debug/net5.0/ItemsInContainer.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/bin/Debug/net5.0/ItemsInContainer.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/bin/Debug/net5.0/ref/ItemsInContainer.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/bin/Debug/net5.0/ItemsInContainer.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ref/ItemsInContainer.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/ItemsInContainer/obj/Debug/net5.0/ItemsInContainer.genruntimeconfig.cache

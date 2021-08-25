@@ -1,0 +1,15 @@
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/bin/Debug/net5.0/PartitionLabel.deps.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/bin/Debug/net5.0/PartitionLabel.runtimeconfig.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/bin/Debug/net5.0/PartitionLabel.runtimeconfig.dev.json
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/bin/Debug/net5.0/PartitionLabel.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/bin/Debug/net5.0/ref/PartitionLabel.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/bin/Debug/net5.0/PartitionLabel.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.csprojAssemblyReference.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.AssemblyInfoInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.AssemblyInfo.cs
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.csproj.CoreCompileInputs.cache
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/ref/PartitionLabel.dll
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.pdb
+/Users/mehmet.ardin/Desktop/Projects/NetCore/Algorithms/PartitionLabel/obj/Debug/net5.0/PartitionLabel.genruntimeconfig.cache
